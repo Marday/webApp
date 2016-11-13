@@ -35,9 +35,9 @@
   -webkit-transition: all 1s 1.5s;
   -webkit-opacity: 1; }
 
-.h5_component_bar_leave .rate bg {
-  width: 100%; }
-.h5_component_bar_leave per {
+.h5_component_bar_leave .rate .bg {
+  width: 0%; }
+.h5_component_bar_leave .per {
   -webkit-opacity: 0; }
 
 /*# sourceMappingURL=H5ComponentBar.css.map */
